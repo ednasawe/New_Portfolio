@@ -1,24 +1,42 @@
-Portfolio Website Project
-The website uses HTML and CSS to build my portfilio using the bootstrap template grid. The website is a project on portfolio building cortesy of Udacity and Google. The website uses the bootstap template to build a simple website project using CSS and HTML.
+# Portfolio Website Project
 
-#Resource
+The website uses HTML and CSS to build my portfilio
+using the bootstrap template grid. The website is a
+project on portfolio building cortesy of Udacity and Google.
+The website uses the bootstap template to build a simple
+website project using CSS and HTML.
 
-Choose A License - Helpful website for picking out a license for an application.
-Udacity - Helpful in learning contents and resources to guide.
-#How to Contribute
 
-Contributions are welcomes. If you find any typos, errors, or additional resources. First, fork this repository.
+# Getting Started
+The project is a HTML/CSS project.
 
-You can Fork Icon the project.
 
-Or clone the repository to make changes.
+# Installation
+Clone the Github repository
+$ git clone git clone {REPOSITORY_CLONE_URL}
+$ cd to the clone directory
 
-$ git clone {REPOSITORY_CLONE_URL} $ cd to the directory
+# Resource
 
-You can also Pull Request Icon by:
+**Choose A License** - Helpful website for picking out a license for an application.
+**Udacity** - Helpful in learning contents and resources to guide.
 
-Making a pull request. Once you've pushed changes to your local repository, you can issue a pull request by clicking on the pull request icon.
+# How to Contribute
 
-#License
+Contributions are welcomes. If you find any typos, errors,
+or additional resources. First, fork this repository.
+- You can Fork Icon the project.
+- Or clone the repository to make changes.
+
+$ git clone {REPOSITORY_CLONE_URL}
+$ cd to the directory
+
+- You can also Pull Request Icon by:
+
+Making a pull request. Once you've pushed changes to
+your local repository, you can issue a pull request
+by clicking on the pull request icon.
+
+# License
 
 The contents of this repository are covered under the MIT License
